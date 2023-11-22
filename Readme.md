@@ -11,3 +11,5 @@ git checkout -b testing -cria um novo branch
 git branch -mostra em que branch você está
 git checkout main -navega no branch
 git branch -D testing -apagar o branch
+git marge testing -ele vai mescla/juntar os commits
+git marrebase testing2 -ele vai mescla/juntar os commits
