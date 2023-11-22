@@ -2,4 +2,6 @@
 
 Este é um teste para incinar como o git funciona
 
-ssiba mais ...
+saiba mais ...
+
+gostou do curso?
